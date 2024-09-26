@@ -28,7 +28,7 @@
     "pretty": "prettier --write .",
     "pretty:check": "prettier --check ."
   },
-  "name": "signify-ts",
+  "name": "@fergaloc/signify-ts",
   "author": "Phil Feairheller",
   "devDependencies": {
     "@mermaid-js/mermaid-cli": "^10.6.1",
